@@ -1,0 +1,10 @@
+motorcyles = ["honda", "yamaha", "susuki"]
+print(motorcyles[0])
+motorcyles.append("ducati")
+print(motorcyles)
+motorcyles.remove("yamaha")
+print(motorcyles)
+motorcyles.sort(reverse=True)
+print(motorcyles)
+len(motorcyles)
+print(len(motorcyles))
