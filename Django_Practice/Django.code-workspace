@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
