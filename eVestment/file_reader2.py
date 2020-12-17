@@ -18,3 +18,6 @@ for holding in holdings_list:
 
 for time in time_period_2020:
     print(time)
+
+
+for time in time_period_2020:
