@@ -12,7 +12,7 @@ with open(filename, newline='\n') as holdings:
 time_period_2008 = []
 
 for holding in holdings_list:
-    if holding['Year'] == '2008':
+    if holding['Year'] == '2020':
         time_period_2008.append(dict(holding))
 
 
